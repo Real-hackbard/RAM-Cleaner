@@ -2,13 +2,11 @@
 
 </br>
 
-```ruby
-Compiler    : Delphi7 (or Higher)
-Components  : jsMaxMem.pas, WinSvc.pas
-Discription : Memory Cleaner
-Last Update : 09/2025
-License     : Freeware
-```
+![Compiler](https://github.com/user-attachments/assets/a916143d-3f1b-4e1f-b1e0-1067ef9e0401) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: ![D7](https://github.com/user-attachments/assets/983bdcfc-3b41-4776-b740-792a7d98b654)  
+![Components](https://github.com/user-attachments/assets/d6a7a7a4-f10e-4df1-9c4f-b4a1a8db7f0e) : ![jsMaxMem pas](https://github.com/user-attachments/assets/5ccf86e4-9add-4fce-830c-5907b437b583) ![WinSvc pas](https://github.com/user-attachments/assets/8798f17e-6602-46e7-8427-63e1e384fdb7)  
+![Discription](https://github.com/user-attachments/assets/4a778202-1072-463a-bfa3-842226e300af) &nbsp;&nbsp;: ![RAM Cleaner](https://github.com/user-attachments/assets/152bb17b-e2a5-48df-9ac8-b1f3665960c7)  
+![Last Update](https://github.com/user-attachments/assets/e1d05f21-2a01-4ecf-94f3-b7bdff4d44dd) &nbsp;: ![102025](https://github.com/user-attachments/assets/62cea8cc-bd7d-49bd-b920-5590016735c0)  
+![License](https://github.com/user-attachments/assets/ff71a38b-8813-4a79-8774-09a2f3893b48) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: ![Freeware](https://github.com/user-attachments/assets/1fea2bbf-b296-4152-badd-e1cdae115c43)
 
 </br>
 
