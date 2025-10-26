@@ -53,3 +53,15 @@ If a program has a memory leak and its memory usage is steadily increasing, ther
 
 ### Thrashing:
 Most modern consumer desktop operating systems have both [main memory](https://en.wikipedia.org/wiki/Computer_data_storage#Primary_storage) which is physically housed in RAM microchips, and secondary storage such as a hard drive. Memory allocation is dynamic – each process gets as much memory as it requests. Active pages are transferred into main memory for fast access; inactive pages are pushed out to secondary storage to make room, as needed. When a single process starts consuming a large amount of memory, it usually occupies more and more of main memory, pushing other programs out to secondary storage – usually significantly slowing performance of the system. Even if the leaking program is terminated, it may take some time for other programs to swap back into main memory, and for performance to return to normal. The resulting slowness and excessive accessing of secondary storage is known as [thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)).
+
+
+### Functions of RAM cleaners:
+* Free up memory: Kills unnecessary applications and background processes to create more free memory.
+* Performance boost: Provides a faster and smoother user experience when multitasking or gaming.
+* Cache Cleanup: Deletes cache data that may be taking up unnecessary storage space.
+* Optimization: Helps optimize memory to use it more efficiently.
+* System monitoring: Often provides a real-time view of memory usage and can help identify resource-hungry apps.
+
+### Visualization of a defragmentation process:
+
+![FragmentationRamViso](https://github.com/user-attachments/assets/7dc41e68-2bcc-4fb3-9451-56fb1cfbe950)
