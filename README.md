@@ -14,6 +14,12 @@
 ### Simple app to free up your computer's memory:
 MemoryCleaner is a tool for freeing up storage space on a computer. It's a free app with a simple interface that makes it easy for users of all skill levels to navigate. It also has limited scheduling features for some automation.
 
+### Updates :
+* New VCL Library
+* Fast Memory Clean
+* Buffer Control
+* Locate Memory Leaks
+
 </br>
 
 ![RAM Cleaner](https://github.com/user-attachments/assets/ca0bf564-d2e3-4fc2-8948-1b55d70f7703)
